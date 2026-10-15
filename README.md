@@ -5,7 +5,7 @@
 
 💡 Passionate about Digital Design, VLSI, PCB Design, Embedded Systems, and Python.
 
-🌱 Currently learning Verilog HDL, FPGA Design, PCB Design, Data Structures & Algorithms, and Semiconductor Fundamentals.
+🌱 Currently learning Verilog HDL, FPGA Design, PCB Design and Semiconductor Fundamentals.
 
 🚀 Open to Internship Opportunities and always eager to learn new technologies.
 
